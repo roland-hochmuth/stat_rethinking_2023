@@ -9,6 +9,8 @@ pymc = "*"
 jupyter = "*"
 jupyterlab = "*"
 arviz = "*"
+networkx = "*"
+graphviz = "*"
 
 [dev-packages]
 
