@@ -4,15 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-networkx = "*"
 pandas = "*"
 pymc = "*"
-arviz = "*"
-numpy = "==1.23.5"
 jupyter = "*"
-jupyterlab-dagitty = "*"
+jupyterlab = "*"
+arviz = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.11.1"
