@@ -11,6 +11,7 @@ jupyterlab = "*"
 arviz = "*"
 networkx = "*"
 graphviz = "*"
+statsmodels = "*"
 
 [dev-packages]
 
