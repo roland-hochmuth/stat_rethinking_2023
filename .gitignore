@@ -51,3 +51,6 @@ wheels/
 *.egg
 
 .DS_Store
+
+.ipynb_checkpoints
+nohup.out
